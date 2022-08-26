@@ -8,8 +8,8 @@ elif len(sys.argv[1]) != len(sys.argv[2]):
 else:
     print("=== Cipher Key Detecter ===")
     print()
-    print("Make sure to reorganize the the key you get.")
-    print("Ex. brainfuckmy => fuckmybrain")
+    print("Make sure to reorganize the key you get.")
+    print("Ex. ecinfos => infosec")
     print()
     first_letter = ord("a")
     last_letter = ord("z")
